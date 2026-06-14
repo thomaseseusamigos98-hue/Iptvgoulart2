@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,A&E 4K
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/90647.ts
+#EXTINF:-1,A&E FHD
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71760.ts
+#EXTINF:-1,A&E FHD [H265]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71761.ts
